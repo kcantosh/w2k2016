@@ -4,4 +4,4 @@ Welcome!
 
 This repositary is designed to share tutorials and lectures during the workshop.
 
-Please complease the feedback form _before_ the end of the workshop: http://goo.gl/forms/dtYtl2vSBqZadcWS2
+Please complease the feedback form _before_ the end of the workshop: http://goo.gl/forms/dtYt12vSBqZadcWS2
