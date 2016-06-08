@@ -6,7 +6,7 @@ This repository is designed to share tutorials and lectures during the workshop.
 
 **ANNOUNCEMENTS:**
 
-* In case you accidently kept the **meal card**, please return it by mail to:
+* We are missing some **meal cards** that might have been accidently kept. In case you did not return it after the Round table & closing session or when checking out (for on-campus accommodation), please mail the meal card to:
 
  Carolina Castellanos<br>
  Department of Material Science and Engineering<br>
@@ -16,6 +16,8 @@ This repository is designed to share tutorials and lectures during the workshop.
  Hamilton, Ontario L9H 4L7<br>
  CANADA
 
-* 
+* For those participants who expressed an interest in accessing their **accounts after the workshop**: Your accounts are active now and will be accessible until June 11, 2016 inclusively. Please use 'wob132' as the **server**. Other login parameters remain unchanged.
 
-Workshop web page: http://mcmasteel.mcmaster.ca/conf/
+* Talks and lectures will be available at the wien2k web site shortly. Please stay tuned...
+
+Workshop web page: http://mcmasteel.mcmaster.ca/conf
