@@ -18,6 +18,6 @@ This repository is designed to share tutorials and lectures during the workshop.
 
 * For those participants who expressed an interest in accessing their **accounts after the workshop**: Your accounts are active now and will be accessible until June 11, 2016 inclusively. Please use 'wob132' as the **server**. Other login parameters remain unchanged.
 
-* Talks and lectures will be available at the wien2k web site shortly. Please stay tuned...
+* Lecture slides, videos and tutorials will be available at the http://www.wien2k.at web site shortly. Please stay tuned...
 
 Workshop web page: http://mcmasteel.mcmaster.ca/conf
