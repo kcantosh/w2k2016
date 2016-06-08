@@ -1,12 +1,12 @@
-= Wien2k workshop (June 3-7, 2016) =
+**Wien2k workshop (June 3-7, 2016)**
 
 Welcome!
 
 This repository is designed to share tutorials and lectures during the workshop.
 
-'''ANNOUNCEMENTS:'''
+**ANNOUNCEMENTS:**
 
-* In case you accidently kept the '''meal card''', please return it by mail to:
+* In case you accidently kept the **meal card**, please return it by mail to:
 
  Carolina Castellanos<br>
  Department of Material Science and Engineering<br>
