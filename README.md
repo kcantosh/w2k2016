@@ -16,7 +16,7 @@ This repository is designed to share tutorials and lectures during the workshop.
  Hamilton, Ontario L9H 4L7<br>
  CANADA
 
-* For those participants who expressed an interest in accessing their **accounts after the workshop**: Your accounts are active now and will be accessible until June 11, 2016 inclusively. Please use 'wob132' as the **server**. Other login parameters remain unchanged.
+* For those participants who expressed an interest in accessing their **accounts after the workshop**: Your accounts are active now and will be accessible until June 11, 2016 inclusively. Please use **wob132** as the server instead of the one listed on the badge. Other login parameters remain unchanged. Let me know if you experience difficulties.
 
 * Lecture slides, videos and tutorials will be available at the http://www.wien2k.at web site shortly. Please stay tuned...
 
